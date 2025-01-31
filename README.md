@@ -55,11 +55,11 @@ class Config(object):
 
 *Вычисление коэффициента корреляции для двух выборок*
 
-<img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" height="350">
+<img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" height="250">
 
 *Добавление устройства*
 
-<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" height="350">
+<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" height="300">
 
 *Таблица устройств*
 
