@@ -58,11 +58,9 @@ class Config(object):
 <img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" width="350">
 
 *Добавление устройства*
-
 <img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" width="500">
 
 *Таблица устройств*
-
 <img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" width="500">
 
 
