@@ -49,9 +49,9 @@ class Config(object):
 
 *Интерфейс визуализации данных*
 
-<img alt="Интерфейс визуализации данных" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_1.png" width="450">
+<img alt="Интерфейс визуализации данных" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_1.png" width="500">
 
-<img alt="Интерфейс" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_2.png" width="450">
+<img alt="Интерфейс" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_2.png" width="500">
 
 *Вычисление коэффициента корреляции для двух выборок*
 
@@ -59,11 +59,11 @@ class Config(object):
 
 *Добавление устройства*
 
-<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" width="450">
+<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" width="500">
 
 *Таблица устройств*
 
-<img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" width="450">
+<img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" width="500">
 
 
 
