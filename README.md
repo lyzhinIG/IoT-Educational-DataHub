@@ -49,21 +49,21 @@ class Config(object):
 
 *Интерфейс визуализации данных*
 
-<img alt="Интерфейс визуализации данных" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_1.png" height="450">
+<img alt="Интерфейс визуализации данных" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_1.png" width="450">
 
-<img alt="Интерфейс" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_2.png" height="350">
+<img alt="Интерфейс" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_2.png" width="450">
 
 *Вычисление коэффициента корреляции для двух выборок*
 
-<img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" height="250">
+<img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" width="350">
 
 *Добавление устройства*
 
-<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" height="300">
+<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" width="450">
 
 *Таблица устройств*
 
-<img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" height="350">
+<img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" width="450">
 
 
 
