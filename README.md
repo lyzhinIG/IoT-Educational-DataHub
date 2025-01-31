@@ -46,22 +46,25 @@ class Config(object):
 5. Запуск приложения:
 `python wsgi.py`
 ## Screenshot 
-<img alt="Интерфейс визуализации данных" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_1.png" height="400">
 
 *Интерфейс визуализации данных*
 
-<img alt="Интерфейс" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_2.png" height="400">
+<img alt="Интерфейс визуализации данных" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_1.png" height="400">
 
-<img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" height="400">
+<img alt="Интерфейс" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_2.png" height="400">
 
 *Вычисление коэффициента корреляции для двух выборок*
 
-<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" height="400">
+<img alt="Вычисление коэффициента корреляции для двух выборок" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_3.png" height="400">
 
 *Добавление устройства*
 
-<img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" height="400">
+<img alt="Добавление устройства" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_4.png" height="400">
 
 *Таблица устройств*
+
+<img alt="Таблица устройств" src="https://github.com/lyzhinIG/IotDataHub/raw/main/other-data/Screenshot_5.png" height="400">
+
+
 
 ## Авторы 
