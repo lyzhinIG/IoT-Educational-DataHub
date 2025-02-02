@@ -1,0 +1,10 @@
+# Private
+/config.py
+
+__pycache__/
+venv/
+
+/.idea/
+
+*.log
+instance

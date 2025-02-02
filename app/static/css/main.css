@@ -1,0 +1,21 @@
+* { font-family: verdana;  COLOR: gray; }
+b { font-weight: bold; }
+table { height: 50%; border: 1px solid gray;}
+td { text-align: center; padding: 25 ;}
+a {display: block; margin: auto; font-size: 18px; padding: 10px;width: 60%; min-width: 400px;}
+
+a:hover {background-color: gray;}
+
+.pred {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    background-color: azure;
+padding: 15px;
+}
+
+.pred p{
+    font-size: 28px;
+}
+
+
