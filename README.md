@@ -5,7 +5,7 @@
 Проект “IoT Educational DataHub” предлагает решение для обработки и представления данных, полученных от устройств IoT. Платформа обеспечивает сбор данных с различных источников, их объединение и предоставление пользователю анализа и визуального отображения информации с упором на применение в образовательных и любительских целях.
 
 The student project "IoT Educational DataHub". Processing data from IoT devices. 
-IoT Educational DataHub offers a solution for processing and presenting data obtained from IoT devices. The platform provides data collection from various sources, their integration, and offers users analysis and visual representation of information with a focus on educational applications.
+IoT Educational DataHub offers a solution for processing and presenting data obtained from IoT devices. The platform provides data collection from various sources, their integration, and offers users analysis and visual representation of information with a focus on education.
 
 
 
