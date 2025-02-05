@@ -1,0 +1,44 @@
+.rangeSlider 
+	padding: auto 
+	display: flex 
+	flex-direction: column 
+	flex-wrap: wrap 
+.myslider 
+	-webkit-appearance: none 
+	margin-top: 10px 
+	margin-bottom: 10px 
+	appearance: none 
+	max-width: 400px 
+	height: 20px 
+	background: #DEDEDE 
+	outline: none 
+	opacity: 0.7 
+	transition: opacity .15s ease-in-out 
+	&::-webkit-slider-thumb 
+		-webkit-appearance: none 
+		appearance: none 
+		width: 20px 
+		height: 20px 
+		background: #0075FF 
+		cursor: pointer 
+		box-shadow: 0 0 5px rgba(0, 0, 0, 0.2) 
+		transition: background .3s ease-in-out 
+		&:hover 
+			border: 1px solid #A19F9F 
+	&::-moz-range-thumb 
+		width: 25px 
+		height: 25px 
+		background: #4CAF50 
+		cursor: pointer 
+		border-radius: 50% 
+		box-shadow: 0 0 5px rgba(0, 0, 0, 0.2) 
+		transition: background .3s ease-in-out 
+		&:hover 
+			background: #45a049 
+span 
+	text-align: left 
+	font-size: 20px 
+	color: #34495E 
+#demo 
+	font-weight: bold 
+	color: #4CAF50 

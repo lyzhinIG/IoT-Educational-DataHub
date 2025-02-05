@@ -1,0 +1,11 @@
+.container {
+    /* BASE */
+    max-width: 1270px;
+    padding: 50px 5px;
+    margin: 0 auto;
+
+    /* CUSTOM */
+    display: grid;
+    grid-template-columns: 270px 1fr;
+    grid-gap: 30px;
+}
