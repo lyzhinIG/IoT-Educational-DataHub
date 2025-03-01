@@ -73,3 +73,6 @@ class Config(object):
 
 
 ## Авторы 
+- [Еременко Екатерина](https://github.com/erkath)
+- [Низамов Ильфат](https://github.com/ilfattvru)
+- [Лыжин Илья](https://github.com/lyzhinIG)
